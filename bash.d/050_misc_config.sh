@@ -74,7 +74,7 @@ alias la='ls -A'
 
 set -o vi
 
-export WORKON_HOME=$HOME/projects/python/virtualenvs
+export WORKON_HOME=$HOME/.virtualenvs
 export PROJECT_HOME=$HOME/projects/python
 source /usr/local/bin/virtualenvwrapper.sh
 

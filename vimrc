@@ -184,7 +184,7 @@ syntax on
 if has('win32') || has('win64')
     set guifont=Lucida\ Console:h12
 elseif has('unix')
-    set guifont=Monaco\ 10
+    set guifont=Ubuntu\ Mono\ 12
 endif
 " -----------------------------------------------
 
